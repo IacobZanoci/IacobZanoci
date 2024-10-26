@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"  />
+</div>
 
-<!--
-**IacobZanoci/IacobZanoci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">👨🏽‍💻  iOS Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">📜 www.linkedin.com/in/iacob-zanoci<br>⚒️ https://zanoci.com<br>📬 iacobzanoci.work@gmail.com</p>
+
+###
