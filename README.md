@@ -1,13 +1,16 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"  />
-</div>
+# Hi there 👋 
 
-###
+### About:
+👨🏻‍💻 &nbsp;iOS Developer at [Disrupt Group](https://disruptgroup.me)<br>
+🏔 &nbsp;In love with travels<br>
+🎓 &nbsp;Bachelor of Engineering in ICTs<br>
 
-<h3 align="left">👨🏽‍💻  iOS Engineer</h3>
+### My social networks:
+- [LinkedIn](https://www.linkedin.com/in/iacob-zanoci/)
+- [Instagram](https://www.instagram.com/iacobzanoci/)
+- [X](https://x.com/iacobzanoci)
+- [Website](https://zanoci.com)
 
-###
-
-<p align="left">📜 www.linkedin.com/in/iacob-zanoci<br>⚒️ https://zanoci.com<br>📬 iacobzanoci.work@gmail.com</p>
-
-###
+### Connect w/ me:
+- [Telegram](https://www.t.me/marck_usa)
+- [Gmail](mailto:iacobzanoci.work@gmail.com)
